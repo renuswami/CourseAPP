@@ -1,12 +1,8 @@
-Courses App - Solution Code
-================================
+# Courses App
+The Courses App is an Android application built using Jetpack Compose that displays various topics and their available courses.
 
-Solution code for the Android Basics with Compose: Build a grid list practice problem set.
+## Features
+* Displays topics in a grid layout
+* Each topic card shows an image, topic name, and available courses
 
-
-Introduction
-------------
-The Courses app consists of a scrollable grid of course topics.
-
-
-All photos by Romain Guy. All photos are licensed under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+![Screenshot 2024-04-06 225900](https://github.com/renuswami/CourseAPP/assets/121007900/5c2ed21c-1ebe-4b7b-b51e-35541ad39149)
